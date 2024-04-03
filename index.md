@@ -30,9 +30,9 @@ __Karabuk University, Environmental  Engineering__
 
 ## Occupation
 
-`mar 2023 - Currently Project based periodic`
+`Mar 2023 - Currently Project based periodic`
 __Colornic Reklam Ajansı__, Istanbul
-FrontEend Developer
+Front End Developer
 
 - __Stack:  Html & CSS / Javascript / Next / Strapi / React__
 
