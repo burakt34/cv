@@ -30,7 +30,7 @@ __Karabuk University, Environmental  Engineering__
 
 ## Occupation
 
-`Mar 2023 - Project based`
+`Mar 2023 - Project`
 __Colornic Reklam Ajansı__, Istanbul
 Front End Developer
 
